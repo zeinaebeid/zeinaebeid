@@ -2,14 +2,13 @@
 <br/><br/>
 🏫 Computer Science student at the University of Victoria <br/>
 
-🍃 Currently learning:
- - Operating Systems
- - Communications and Networks
+🍃 Currently: 
+ - Learning about operating systems
+ - Learning about communications and networks
+ - Designing my portfolio
+ - Looking for new opportunities!
 
 <br/><br/>
-
-
-
 
 
 ### 🌐 Let's Connect!
