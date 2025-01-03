@@ -1,11 +1,8 @@
 ## Hi, I'm Zeina 👋 
 <br/><br/>
-🏫 Computer Science student at the University of Victoria <br/>
-
+🏫 Computer Science student at the University of Victoria
 
 <br/><br/>
-
-
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeinaebeid) 
 
